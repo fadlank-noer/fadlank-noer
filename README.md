@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://instagram.com/cerita.anda"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/fadlan-kautsar-noer/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" /></a>&nbsp;
+</p>
+
 - 👋 Hi, I’m @Towew
 - 👀 I’m interested in learning all fundamental language
 - 🌱 I’m currently learning NestJS, NodeJS and React for Web Development
