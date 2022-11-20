@@ -3,8 +3,11 @@
 <a href="https://www.linkedin.com/in/fadlan-kautsar-noer/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
-- 👋 Hi, I’m @Towew
-- 👀 I’m interested in learning all fundamental language
+<p>
+  <h1 align="center">👋 Hi, I’m @Towew</h1>
+</p>
+
+- 👀 I’m interested in learning all fundamental programming language
 - 🌱 I’m currently learning NestJS, NodeJS and React for Web Development
 - 💞️ I’m looking to collaborate on freelance or projects mainly using javascript
 - 📫 How to reach me [fadlank.noer@gmail.com](mailto:fadlank.noer@gmail.com)
