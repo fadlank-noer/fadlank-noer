@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning NestJS, NodeJS and React for Web Development
 - 💞️ I’m looking to collaborate on freelance or projects mainly using javascript
 - 📫 How to reach me [fadlank.noer@gmail.com](mailto:fadlank.noer@gmail.com)
-- If you read this, hope we could be friends!!
+- Just keep commiting your code so that i can request collab or fork your code
 
 # My projects: 
 - [WaysBook](https://warung-waysbook-b32.netlify.app/) // Bootcamp Project
