@@ -13,9 +13,11 @@
 - 📫 How to reach me [fadlank.noer@gmail.com](mailto:fadlank.noer@gmail.com)
 - Just keep commiting your code so that i can request collab or fork your code
 
+<!--
 # My projects: 
 - [WaysBook](https://warung-waysbook-b32.netlify.app/) // Bootcamp Project
 - [Weather App UI](https://weather-app-test-sa.netlify.app/) 
+-->
 
 # Learned Stacks:
 - HTML, CSS, Javascript ES6
