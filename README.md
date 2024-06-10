@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in learning all fundamental programming language
 - 🌱 I’m currently learning NestJS, NodeJS and React for Web Development
-- 💞️ I’m looking to collaborate on freelance or projects mainly using javascript
+- 💞️ I’m welcoming for collaborations on freelance or projects doesn't matter what the stack is
 - 📫 How to reach me [fadlank.noer@gmail.com](mailto:fadlank.noer@gmail.com)
 - Just keep commiting your code so that i can request collab or fork your code
 
