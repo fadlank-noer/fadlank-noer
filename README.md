@@ -33,6 +33,11 @@
 - Salesforce
 - Python
 - Frappe Framework
+- C
+- C#
+- Go
+- Java
+- Astro
 
 <!---
 Towew/Towew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
